@@ -33,7 +33,7 @@
 		<connection>scm:git:git@github.com:gabrielgcrispim/devops.git</connection>
 		<developerConnection>scm:git:git@github.com:gabrielgcrispim/devops.git</developerConnection>
 		<url>git@github.com:gabrielgcrispim/devops.git</url>
-		<tag>HEAD</tag>
+		<tag>v1.2.0</tag>
 	</scm>
 	<dependencies>
 		<dependency>
